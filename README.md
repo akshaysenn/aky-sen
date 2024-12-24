@@ -1,21 +1,30 @@
-# 🚀 Hi there, I'm Akshay Sen
+<div align="center">
+  <img src="https://media.giphy.com/media/2599kjzl9M5anzPSbh/giphy.gif" width="200"/>
+</div>
 
-## 🚀 About Me
-A passionate developer from India who loves coding and playing basketball! Currently focused on mastering Data Structures and Algorithms.
+# <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> Hi there, I'm Akshay Sain
 
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+## 🦇 About Me
+A passionate developer from India who loves coding and playing basketball! Currently focused on mastering Data Structures and Algorithms, like Batman mastering the streets of Gotham.
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaysenn&show_icons=true&theme=radical)
+## 🛠️ Technologies & Arsenal
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=yellow&color=282c34)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=282c34)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=yellow&color=282c34)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=yellow&color=282c34)
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaysenn&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaysenn&show_icons=true&theme=dark&bg_color=282c34&icon_color=ffd700&title_color=ffd700&text_color=ffffff" />
+</div>
 
-## 🎯 Current Focus
+## ⚡ Streak Stats
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaysenn&theme=dark&background=282c34&ring=ffd700&fire=ffd700&currStreakLabel=ffd700)](https://git.io/streak-stats)
+
+</div>
+
+## 🎯 Current Mission
 - 🔭 Working on Data Structures and Algorithms
 - 🌱 Learning Java
 - 👯 Looking to collaborate on WebDev projects
