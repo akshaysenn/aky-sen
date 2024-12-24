@@ -13,7 +13,7 @@ A passionate developer from India who loves coding and playing basketball! Curre
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aky-sen&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaysenn&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aky-sen&theme=dark)](https://git.io/streak-stats)
 
 ## 🎯 Current Focus
 - 🔭 Working on Data Structures and Algorithms
