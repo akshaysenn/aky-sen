@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="<iframe src="https://giphy.com/embed/qrIlvM63x7x9IjrHw1" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WBPictures-the-flash-ezra-miller-movie-qrIlvM63x7x9IjrHw1"></a></p>" width="200"/>
-</div>
 
 # <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> Hi there, I'm Akshay Sain
 
