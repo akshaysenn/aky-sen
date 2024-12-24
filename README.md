@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Akshay Sain
+# 🚀 Hi there, I'm Akshay Sen
 
 ## 🚀 About Me
 A passionate developer from India who loves coding and playing basketball! Currently focused on mastering Data Structures and Algorithms.
